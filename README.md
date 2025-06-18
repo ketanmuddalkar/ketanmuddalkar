@@ -1,4 +1,6 @@
-# I'm Ketan, a passionate Data engineer with strong interest spanning across entire data field
+# Hi there, I'm Ketan Muddalkar 🙋🏽‍♂️
+
+I'm a highly skilled Data Engineer, with strong focus on creating robust ETL pipelines. I have worked with BI tools such as PowerBI, Tableu and Looker and an expert at building elegant dashboards. I'm dedicated to delivering best products and driving change and innovation with the help of data-backed results and insights.
 
 <!--
 **ketanmuddalkar/ketanmuddalkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
